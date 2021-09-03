@@ -1,0 +1,31 @@
+{
+  "name": "bootstrap-training",
+  "version": "1.0.0",
+  "description": "learning bootstrap and sass",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "sass": "^1.39.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niyoel/bootstrap-training.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap-training",
+    "sass",
+    "learning-bootstrap",
+    "learning-sass"
+  ],
+  "author": "Niyobuhungiro Ellen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niyoel/bootstrap-training/issues"
+  },
+  "homepage": "https://github.com/niyoel/bootstrap-training#readme"
+}
